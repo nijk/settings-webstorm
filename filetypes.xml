@@ -8,7 +8,6 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
-      <mapping ext="twig" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
