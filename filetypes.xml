@@ -6,6 +6,7 @@
       <mapping ext="ttf" type="Native" />
       <mapping pattern=".modernizrrc" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="_svg" type="PLAIN_TEXT" />
