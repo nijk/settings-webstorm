@@ -1,6 +1,8 @@
 <application>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="STRIP_TRAILING_SPACES" value="None" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="ADD_CARETS_ON_DOUBLE_CTRL" value="false" />
   </component>
   <component name="TodoConfiguration">
