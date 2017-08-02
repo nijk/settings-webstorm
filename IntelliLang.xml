@@ -1,13 +1,15 @@
 <application>
   <component name="LanguageInjectionConfiguration">
-    <option name="INSTRUMENTATION" value="ASSERT" />
-    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
-    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
-    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
-    <option name="RESOLVE_REFERENCES" value="true" />
     <injection language="Angular2HTML" injector-id="js">
       <display-name>Angular2HTML</display-name>
       <value-pattern>*.*.html</value-pattern>
+    </injection>
+    <injection language="SCSS" injector-id="js">
+      <display-name>StyledComponents</display-name>
+      <prefix>dummy {</prefix>
+      <suffix>}</suffix>
+      <place><![CDATA[jsLiteralExpression().withText(string().matchesBrics("styled.+"))]]></place>
+      <place><![CDATA[jsLiteralExpression().withText(string().startsWith("`// styled"))]]></place>
     </injection>
   </component>
 </application>
