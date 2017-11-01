@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.mxml</mask>
       <mask>*.ts</mask>
@@ -28,12 +29,12 @@
       <mask>package.json</mask>
       <mask>*</mask>
       <mask>*.</mask>
+      <mask>*.htm</mask>
+      <mask>*.html</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.htm</mask>
-      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
