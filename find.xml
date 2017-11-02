@@ -13,8 +13,6 @@
       <mask>*.mustac</mask>
       <mask>*.mustach</mask>
       <mask>*.mustache</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
       <mask>.json</mask>
@@ -34,6 +32,8 @@
       <mask>*.h</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
