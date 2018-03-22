@@ -28,12 +28,12 @@
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>*.ml</mask>
       <mask>*.html</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
