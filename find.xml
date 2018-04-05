@@ -2,12 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.cljs" />
     <recentFileMasks>
-      <mask>*.must</mask>
-      <mask>*.musta</mask>
-      <mask>*.mustac</mask>
-      <mask>*.mustach</mask>
       <mask>*.mustache</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
@@ -34,6 +33,10 @@
       <mask>*.ml</mask>
       <mask>*.html</mask>
       <mask>*.scss</mask>
+      <mask>*.cs</mask>
+      <mask>*.cls</mask>
+      <mask>*.cljss</mask>
+      <mask>*.cljs</mask>
     </recentFileMasks>
   </component>
 </application>
