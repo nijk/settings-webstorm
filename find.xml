@@ -3,12 +3,8 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.ext.js" />
     <recentFileMasks>
-      <mask>*.mustache</mask>
-      <mask>*.jso</mask>
-      <mask>*.json</mask>
-      <mask>.json</mask>
-      <mask>p.json</mask>
       <mask>pa.json</mask>
       <mask>pac.json</mask>
       <mask>pack.json</mask>
@@ -18,7 +14,6 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*.h</mask>
       <mask>*.htm</mask>
       <mask>*.s</mask>
@@ -34,6 +29,12 @@
       <mask>*.cls</mask>
       <mask>*.cljss</mask>
       <mask>*.cljs</mask>
+      <mask>*.cjs</mask>
+      <mask>*.js</mask>
+      <mask>*.ejs</mask>
+      <mask>*.exjs</mask>
+      <mask>*.extjs</mask>
+      <mask>*.ext.js</mask>
     </recentFileMasks>
   </component>
 </application>
