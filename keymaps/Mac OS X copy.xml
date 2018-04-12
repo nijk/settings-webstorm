@@ -8,13 +8,13 @@
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="shift meta minus" />
   </action>
-  <action id="EditorEnter" />
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="shift meta equals" />
   </action>
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="shift meta 0" />
   </action>
+  <action id="EditorSplitLine" />
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="shift meta add" />
   </action>
