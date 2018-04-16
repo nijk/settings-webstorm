@@ -1,0 +1,16 @@
+<scheme name="Nijk (high res screen)" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2018-04-16T20:27:03</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2017.3.2.0.0</property>
+    <property name="modified">2018-04-16T20:27:21</property>
+    <property name="originalScheme">Nijk</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro for Powerline" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+</scheme>
