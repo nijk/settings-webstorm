@@ -5,6 +5,9 @@
   <action id="Console.Execute" />
   <action id="DirDiffMenu.SynchronizeDiff" />
   <action id="EditorChooseLookupItem" />
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="shift meta minus" />
   </action>
