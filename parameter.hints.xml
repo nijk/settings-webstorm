@@ -1,0 +1,8 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+    </blacklists>
+    <option id="clojure.parameter.hints" value="false" />
+  </component>
+</application>
