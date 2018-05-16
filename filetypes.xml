@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="styles.clj" type="Clojure" />
       <mapping ext="edn" type="Clojure" />
+      <mapping ext="boot" type="Clojure" />
       <mapping ext="ttf" type="Native" />
       <mapping ext="eot" type="Native" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
