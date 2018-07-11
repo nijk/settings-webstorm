@@ -3,7 +3,6 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.cljs" />
     <recentFileMasks>
       <mask>pack.json</mask>
       <mask>packa.json</mask>
@@ -25,16 +24,16 @@
       <mask>*.cs</mask>
       <mask>*.cls</mask>
       <mask>*.cljss</mask>
-      <mask>*.cjs</mask>
       <mask>*.ejs</mask>
       <mask>*.exjs</mask>
       <mask>*.extjs</mask>
       <mask>*.ext.js</mask>
       <mask>*..js</mask>
-      <mask>*.js</mask>
       <mask>*.scss</mask>
       <mask>*.cl</mask>
       <mask>*.cljs</mask>
+      <mask>*.cjs</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
