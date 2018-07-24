@@ -3,15 +3,8 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="styles.cljs" />
     <recentFileMasks>
-      <mask>pack.json</mask>
-      <mask>packa.json</mask>
-      <mask>packag.json</mask>
-      <mask>package.json</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.h</mask>
       <mask>*.htm</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
@@ -34,6 +27,14 @@
       <mask>*.cljs</mask>
       <mask>*.cjs</mask>
       <mask>*.js</mask>
+      <mask>s.js</mask>
+      <mask>st.js</mask>
+      <mask>sty.js</mask>
+      <mask>styl.js</mask>
+      <mask>style.js</mask>
+      <mask>styles.js</mask>
+      <mask>styles.cjs</mask>
+      <mask>styles.cljs</mask>
     </recentFileMasks>
   </component>
 </application>
