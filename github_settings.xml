@@ -1,7 +1,11 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="eca4cedc-2676-4ae5-a01b-30a3ecccbcdd" name="nijk">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="nijk" />
     <option name="AUTH_TYPE" value="BASIC" />
-    <option name="VALID_GIT_AUTH" value="false" />
   </component>
 </application>
