@@ -2,40 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <recentFileMasks>
-      <mask>*.htm</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
-      <mask>*.ml</mask>
-      <mask>*.html</mask>
-      <mask>*.cs</mask>
-      <mask>*.cls</mask>
-      <mask>*.cljss</mask>
-      <mask>*.ejs</mask>
-      <mask>*.exjs</mask>
-      <mask>*.extjs</mask>
-      <mask>*.ext.js</mask>
-      <mask>*..js</mask>
-      <mask>*.scss</mask>
-      <mask>*.cl</mask>
-      <mask>*.cljs</mask>
-      <mask>*.cjs</mask>
-      <mask>*.js</mask>
-      <mask>s.js</mask>
-      <mask>st.js</mask>
-      <mask>sty.js</mask>
-      <mask>styl.js</mask>
-      <mask>style.js</mask>
-      <mask>styles.js</mask>
-      <mask>styles.cjs</mask>
-      <mask>styles.cljs</mask>
-    </recentFileMasks>
   </component>
 </application>
