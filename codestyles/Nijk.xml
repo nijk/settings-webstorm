@@ -1,4 +1,5 @@
 <code_scheme name="Nijk" version="173">
+  <option name="RIGHT_MARGIN" value="100" />
   <ClojureCodeStyleSettings>
     <option name="USE_2SEMI_COMMENT" value="true" />
   </ClojureCodeStyleSettings>
