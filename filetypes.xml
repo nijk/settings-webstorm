@@ -1,39 +1,35 @@
 <application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc" />
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping ext="graphqls" type="GraphQL" />
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping ext="js" type="JSX Harmony" />
-      <removed_mapping ext="js" approved="true" type="JavaScript" />
-      <mapping ext="mdx" type="Markdown" />
       <mapping ext="ttf" type="Native" />
       <mapping ext="eot" type="Native" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
-      <mapping pattern="b" type="PLAIN_TEXT" />
-      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern=".modernizrrc" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern="b" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
-      <mapping ext="class" type="PLAIN_TEXT" />
-      <mapping ext="_svg" type="PLAIN_TEXT" />
-      <mapping ext="8" type="PLAIN_TEXT" />
       <mapping ext="7" type="PLAIN_TEXT" />
+      <mapping ext="class" type="PLAIN_TEXT" />
+      <mapping ext="8" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="_svg" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".gitattributes" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="js" approved="true" type="JavaScript" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".editorconfig" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern=".editorconfig" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".gitattributes" approved="true" type="PLAIN_TEXT" />
       <mapping ext="boot" type="Clojure" />
       <mapping ext="edn" type="Clojure" />
+      <mapping ext="mdx" type="Markdown" />
       <mapping pattern="styles.clj" type="Clojure" />
     </extensionMap>
   </component>
