@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc" />
     <extensionMap>
-      <mapping ext="graphqls" type="GraphQL" />
       <mapping ext="graphqlconfig" type="JSON" />
       <mapping ext="js" type="JSX Harmony" />
       <mapping ext="ttf" type="Native" />
@@ -29,6 +28,7 @@
       <removed_mapping pattern=".gitattributes" approved="true" type="PLAIN_TEXT" />
       <mapping ext="boot" type="Clojure" />
       <mapping ext="edn" type="Clojure" />
+      <mapping ext="graphqls" type="GraphQL" />
       <mapping ext="mdx" type="Markdown" />
       <mapping pattern="styles.clj" type="Clojure" />
     </extensionMap>
