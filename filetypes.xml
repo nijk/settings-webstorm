@@ -13,6 +13,7 @@
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="7" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
+      <mapping ext="fit" type="PLAIN_TEXT" />
       <mapping ext="8" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="_svg" type="PLAIN_TEXT" />
