@@ -5,6 +5,7 @@
     </internal_templates>
     <default_templates>
       <template name="Typescript Test TSX File༏ext༏.spec.tsx" reformat="true" live-template-enabled="true" />
+      <template name="Typescript TSX File.tsx" reformat="true" live-template-enabled="true" />
     </default_templates>
   </component>
 </application>
